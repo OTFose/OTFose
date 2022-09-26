@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @OTFose
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Driving a Lamborghini 
+-    Open door
+-    Press the ignition button, 
+-    Let the car worm up for about 2 minutes, 
+-           then remove gear from packing, 
+-    Put in drive, 
+-    enjoy a nice ride.
 
 <!---
 OTFose/OTFose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
